@@ -133,7 +133,6 @@
 - [코드라이언](http://codelion.net/) - 웹 9주 개발하기
 - [코드닷오아르지](http://code.org/) - 프로그래밍 연습
 - [runnable](http://runnable.com/) - 코드 검색, 테스트 사이트
-- [Hackermeter](http://www.hackermeter.com/) - 프로그래밍 실력 테스트
 - [유지보수하기 어렵게 코딩하는 방법,Ebook](https://play.google.com/store/books/details?id=HHqqAwAAQBAJ)
 - [JAVA 동영상 강의](http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php) - '난 정말 JAVA를 공부한 적이 없다구요' 강의, 오렌지 미디어 제공
 - [typing.io](https://typing.io/lessons) - 소스 코드로 타자 연습 사이트
